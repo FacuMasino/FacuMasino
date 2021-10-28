@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Facu Masino</h1>
+<h1 align="center">Hola 👋, soy Facundo Masino</h1>
 <h3 align="center">Productor Musical, Técnico de Mezcla y Estudiante de Desarrollo Frontend en React</h3>
 
 - 🌱 Actualmente estoy aprendiendo **HTML, CSS + SASS, Javascript, ReactJS, Boostrap**
