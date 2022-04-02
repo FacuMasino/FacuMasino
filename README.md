@@ -3,7 +3,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=facumasino.facundomasino)
 
-- 🌱 Actualmente estoy aprendiendo **HTML, CSS + SASS, Javascript, ReactJS, Boostrap**
+- 🌱 Actualmente estoy aprendiendo **HTML, CSS + SASS, Javascript, ReactJS, Bootstrap**
 
 - 📫 Contacto **info@facundomasino.com**
 
