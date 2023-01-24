@@ -1,9 +1,9 @@
 <h1 align="left">Hola 👋, soy Facundo Masino</h1>
-<h3 align="left">Productor Musical, Técnico de Mezcla y Desarrollador Frontend React en formación</h3>
+<h3 align="left">Productor Musical, Técnico de Mezcla y Desarrollador Frontend React (en formación)</h3>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=facumasino.facundomasino)
 
-- 🌱 Actualmente estoy aprendiendo **HTML, CSS + SASS, Javascript, ReactJS, Bootstrap**
+- 🌱 Tecnologías: **HTML, CSS + SASS, Javascript, ReactJS, Bootstrap**
 
 - 📫 Contacto **info@facundomasino.com**
 
