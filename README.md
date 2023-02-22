@@ -1,11 +1,13 @@
 <h1 align="left">Hola 👋, soy Facundo Masino</h1>
-<h3 align="left">Productor Musical, Técnico de Mezcla y Desarrollador Frontend React (en formación)</h3>
+<h3 align="left">React Frontend Developer and Software Development Student at UTN 👨🏼‍🎓</h3>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=facumasino.facundomasino)
 
-- 🌱 Tecnologías: **HTML, CSS + SASS, Javascript, ReactJS, Bootstrap**
+- 👨🏼‍🎓 I'm currently studying Software Development at UTN FRGP 
 
-- 📫 Contacto **info@facundomasino.com**
+- 🌱 Technologies: **HTML, CSS + SASS, Javascript, ReactJS, Bootstrap**
+
+- 📫 Contact **info@facundomasino.com**
 
 <h3 align="left">Social Media:</h3>
 <p align="left">
