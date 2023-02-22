@@ -7,7 +7,7 @@
 
 - 🌱 Technologies: **HTML, CSS + SASS, Javascript, ReactJS, Bootstrap**
 
-- 📫 Contact **info@facundomasino.com**
+- 📫 Contact **facundojmasino[at]gmail.com**
 
 <h3 align="left">Social Media:</h3>
 <p align="left">
