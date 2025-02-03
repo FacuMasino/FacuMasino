@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Facundo Masino</h1>
-<h3 align="center">React Frontend Developer and Software Development Student at UTN 👨🏼‍🎓</h3>
+<h3 align="center">React Frontend Developer and Software Developer</h3>
 
 ![](https://komarev.com/ghpvc/?username=facumasino&color=dc143c)
 
-- 👨🏼‍🎓 I'm currently studying Software Development at UTN FRGP 
+- 👨🏼‍🎓 I'm a Software Developer graduated from UTN FRGP
 
-- 🌱 Technologies: **HTML, CSS + SASS, Javascript, ReactJS, Bootstrap**
+- 🌱 Technologies: **TypeScript, ReactJS, TailwindCSS, C# .NET**
 
 - 📫 Contact **facundojmasino[at]gmail.com**
 
