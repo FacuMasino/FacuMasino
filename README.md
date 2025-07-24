@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Facundo Masino</h1>
-<h3 align="center">React Frontend Developer and Software Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 ![](https://komarev.com/ghpvc/?username=facumasino&color=dc143c)
 
