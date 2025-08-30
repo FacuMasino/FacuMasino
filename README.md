@@ -28,5 +28,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=facumasino&show_icons=true&theme=github_dark"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=facumasino&layout=compact&theme=github_dark"/>
+  <img src="https://wakatime.com/share/@facumasino/48fb8fc6-1878-4ce3-8dd2-da79231aa6d6.svg" height="800" width="600"/>
 </p>
