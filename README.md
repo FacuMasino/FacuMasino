@@ -18,15 +18,16 @@
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/CSS3-214CE5"/>
-  <img src="https://img.shields.io/badge/SASS-BF4080"/>
+  <img src="https://img.shields.io/badge/C%23-BF74D8" />
+  <img src="https://img.shields.io/badge/SQL-2782B6"/>
+  <img src="https://img.shields.io/badge/ReactJS-087EA4"/>
   <img src="https://img.shields.io/badge/JavaScript-F7E018"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6"/>
-  <img src="https://img.shields.io/badge/ReactJS-087EA4"/>
-  <img src="https://img.shields.io/badge/MySQL-2782B6"/>
+  <img src="https://img.shields.io/badge/CSS3-214CE5"/>
+  <img src="https://img.shields.io/badge/SASS-BF4080"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=facumasino&show_icons=true&theme=github_dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=facumasino&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false"/>
   <br/>
   <img src="https://wakatime.com/share/@facumasino/48fb8fc6-1878-4ce3-8dd2-da79231aa6d6.svg" height="800" width="600"/>
 </p>
